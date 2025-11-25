@@ -20,7 +20,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: 나는 공대 하생이비니다. 
+  name: 나는 공대 하생이비니다. 안녕하세요 저는 천지민입니다. 
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: a category-centric theme
